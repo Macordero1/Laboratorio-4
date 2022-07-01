@@ -23,6 +23,9 @@ Se requiere el análisis analítico del circuito mostrado en la figura 4.1., apl
 
 ## **4.3. Información General**
 
+![imagen](https://user-images.githubusercontent.com/105812540/176815156-b99d89d1-b347-4145-8914-f146002834fb.png)
+
+
 ## **4.4. Material y Equipo requerido**
 
 ![image](https://user-images.githubusercontent.com/105742149/176807784-2e19fe4d-1648-4efc-8d33-26b69e9cf18e.png)
