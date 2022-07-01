@@ -54,23 +54,20 @@ Se requiere el análisis analítico del circuito mostrado en la figura 4.1., apl
 
 ### **4.5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
+![image](https://user-images.githubusercontent.com/105742149/176828111-1a5b1c07-04d4-45a7-8963-55f21b1bac85.png)
+
 ### **4.5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
 ### **4.5.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
-## **4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.**
-
-## **4.5.6. Calculo de errores**
+## **4.5.5. Calculo de errores**
 
 ![image](https://user-images.githubusercontent.com/105742149/176827107-050449dc-3a77-4ced-9d8e-d3db1845f583.png)
 
 ![image](https://user-images.githubusercontent.com/105742149/176827135-6708584b-c410-45ab-a83e-959961e864f8.png)
 
-
-## **Conclusión**
+## **4.5.6. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.**
 
 Comprobar siempre la polaridad del voltaje como el sentido de la corriente al cambiar los valores de la fuente de voltaje ya que se pueden presentar mediciones negativas. 
-
-
 
 ## **Bibliografía**
