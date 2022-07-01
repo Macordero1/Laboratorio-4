@@ -48,8 +48,14 @@ Se requiere el análisis analítico del circuito mostrado en la figura 4.1., apl
 
 ## **Conclusión**
 
-Comprobar siempre la polaridad del voltaje como el sentido de la corriente al cambiar los valores de la fuente de voltaje ya que se pueden presentar mediciones negativas. 
+•	Se implementó el Teorema de superposición con la toma de medidas usando un simulador además del cálculo de la corriente y voltaje.
 
+•	Comprobar siempre la polaridad del voltaje como el sentido de la corriente al cambiar los valores de la fuente de voltaje ya que se pueden presentar mediciones negativas.
 
 
 ## **Bibliografía**
+
+Floyd, T. (indefinido de indefinido de 2007). Principios de Circuitos Electricos. En T. Floyd, Principios de Circuitos Electricos (pág. 968). Mexico: Pearson. Obtenido de https://akifrases.com/frase/183227
+
+
+
