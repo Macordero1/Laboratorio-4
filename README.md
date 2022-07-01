@@ -17,6 +17,10 @@
 
 ### **Objetivos Especificos** 
 
+* Analizar la aplicacion del teorema de superpsicion mediante la aplicacion del mismo en un circuito mixto
+
+* Comprobar el margen de error que presenta la simulacion comparado con el calculo de la corriente y el voltaje
+
 ## **4.2. Requisitos Previos**
 
 Se requiere el análisis analítico del circuito mostrado en la figura 4.1., aplicando el Teorema de Superposición. Obtenga los valores de VA e IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan y anote los resultados en la tabla 4.1. y 4.2. según corresponda.
@@ -64,7 +68,7 @@ Se requiere el análisis analítico del circuito mostrado en la figura 4.1., apl
 
 ![image](https://user-images.githubusercontent.com/105742149/176828409-ae5b85f6-fbfe-48b8-9c43-88bc0f78bf28.png)
 
-## **4.5.5. Calculo
+## **4.5.5. Calculo**
 
 ![image](https://user-images.githubusercontent.com/105742149/176829204-8fcb8504-3e36-498f-bdba-bba1ebfbf1d8.png)
 
