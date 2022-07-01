@@ -36,6 +36,8 @@ Se requiere el análisis analítico del circuito mostrado en la figura 4.1., apl
 
 ![image](https://user-images.githubusercontent.com/105742149/176807061-90c93c3f-5a7c-45fb-947f-c7204c5fd7cc.png)
 
+![image](https://user-images.githubusercontent.com/105742149/176820225-d3cfce00-a0f5-49ed-95c3-6e082ff050f6.png)
+
 ### **4.5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
 ### **4.5.3. Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
