@@ -27,8 +27,6 @@ Se requiere el análisis analítico del circuito mostrado en la figura 4.1., apl
 
 ![image](https://user-images.githubusercontent.com/105742149/176807784-2e19fe4d-1648-4efc-8d33-26b69e9cf18e.png)
 
-![image](https://user-images.githubusercontent.com/105742149/176809302-58b8e869-9961-4005-b1bc-891fb55304c7.png)
-
 ## **4.5. Procedimiento**
 
 ### **4.5.1. Arme el circuito que se muestra en la figura 4.1.**
@@ -43,6 +41,10 @@ Se requiere el análisis analítico del circuito mostrado en la figura 4.1., apl
 
 ## **4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.**
 
-## **Conclusiones**
+## **Conclusión**
+
+Comprobar siempre la polaridad del voltaje como el sentido de la corriente al cambiar los valores de la fuente de voltaje ya que se pueden presentar mediciones negativas. 
+
+
 
 ## **Bibliografía**
