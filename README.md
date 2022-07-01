@@ -36,7 +36,21 @@ Se requiere el análisis analítico del circuito mostrado en la figura 4.1., apl
 
 ![image](https://user-images.githubusercontent.com/105742149/176807061-90c93c3f-5a7c-45fb-947f-c7204c5fd7cc.png)
 
-![image](https://user-images.githubusercontent.com/105742149/176820225-d3cfce00-a0f5-49ed-95c3-6e082ff050f6.png)
+![image](https://user-images.githubusercontent.com/105742149/176827222-f07f1482-c932-48a3-b41f-7d7380e81f40.png)
+
+*Circuito Armado*
+
+![image](https://user-images.githubusercontent.com/105742149/176827279-fcef1ddb-bc1e-4d7b-be1f-b13098524936.png)
+
+*Circuito Simulado*
+
+![image](https://user-images.githubusercontent.com/105742149/176827356-889573f8-d247-4684-baf1-7c0b461bcca0.png)
+
+*Cuando V2 tiende a ser cero*
+
+![image](https://user-images.githubusercontent.com/105742149/176827424-c6228fa9-004b-4aa0-a31d-f4e921f2a640.png)
+
+*Cuando V1 tiende a ser cero*
 
 ### **4.5.2. Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.**
 
@@ -46,16 +60,17 @@ Se requiere el análisis analítico del circuito mostrado en la figura 4.1., apl
 
 ## **4.5.5. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.**
 
+## **4.5.6. Calculo de errores**
+
+![image](https://user-images.githubusercontent.com/105742149/176827107-050449dc-3a77-4ced-9d8e-d3db1845f583.png)
+
+![image](https://user-images.githubusercontent.com/105742149/176827135-6708584b-c410-45ab-a83e-959961e864f8.png)
+
+
 ## **Conclusión**
 
-•	Se implementó el Teorema de superposición con la toma de medidas usando un simulador además del cálculo de la corriente y voltaje.
+Comprobar siempre la polaridad del voltaje como el sentido de la corriente al cambiar los valores de la fuente de voltaje ya que se pueden presentar mediciones negativas. 
 
-•	Comprobar siempre la polaridad del voltaje como el sentido de la corriente al cambiar los valores de la fuente de voltaje ya que se pueden presentar mediciones negativas.
 
 
 ## **Bibliografía**
-
-Floyd, T. (indefinido de indefinido de 2007). Principios de Circuitos Electricos. En T. Floyd, Principios de Circuitos Electricos (pág. 968). Mexico: Pearson. Obtenido de https://akifrases.com/frase/183227
-
-
-
