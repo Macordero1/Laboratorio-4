@@ -72,6 +72,6 @@ Se requiere el análisis analítico del circuito mostrado en la figura 4.1., apl
 
 ## **4.5.6. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.**
 
-Comprobar siempre la polaridad del voltaje como el sentido de la corriente al cambiar los valores de la fuente de voltaje ya que se pueden presentar mediciones negativas. 
+* Comprobar siempre la polaridad del voltaje como el sentido de la corriente al cambiar los valores de la fuente de voltaje ya que se pueden presentar mediciones negativas. 
 
 ## **Bibliografía**
