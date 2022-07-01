@@ -64,13 +64,25 @@ Se requiere el análisis analítico del circuito mostrado en la figura 4.1., apl
 
 ![image](https://user-images.githubusercontent.com/105742149/176828409-ae5b85f6-fbfe-48b8-9c43-88bc0f78bf28.png)
 
-## **4.5.5. Calculo de errores**
+## **4.5.5. Calculo
+
+![image](https://user-images.githubusercontent.com/105742149/176829204-8fcb8504-3e36-498f-bdba-bba1ebfbf1d8.png)
+
+![image](https://user-images.githubusercontent.com/105742149/176829221-d645323e-d4b5-4525-ab37-7538f16c6193.png)
+
+![image](https://user-images.githubusercontent.com/105742149/176829244-d0102e35-adde-4112-b5f3-437072114f88.png)
+
+![image](https://user-images.githubusercontent.com/105742149/176829279-b9c30128-bb12-4efe-8ea1-28249c985d03.png)
+
+![image](https://user-images.githubusercontent.com/105742149/176829306-7a29ce64-d68b-4d69-b77e-812b50a2139f.png)
+
+## **4.5.6. Calculo de errores**
 
 ![image](https://user-images.githubusercontent.com/105742149/176827107-050449dc-3a77-4ced-9d8e-d3db1845f583.png)
 
 ![image](https://user-images.githubusercontent.com/105742149/176827135-6708584b-c410-45ab-a83e-959961e864f8.png)
 
-## **4.5.6. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.**
+## **4.5.7. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.**
 
 •	Se implementó el Teorema de superposición con la toma de medidas usando un simulador además del cálculo de la corriente y voltaje.
 
